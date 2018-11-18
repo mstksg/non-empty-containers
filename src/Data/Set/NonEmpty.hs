@@ -1,5 +1,5 @@
 module Data.Set.NonEmpty
-  ( NonEmptySet
+  ( NonEmptySet(..)
   , singleton
   , member
   , toSet
